@@ -1,0 +1,11 @@
+{
+  "name": "u-email-baru-make-the-judge-laugh-in-one-line-791ccb21",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one line to /output/entry.txt: an insurer denies the claim because the accident was preventable, and the answer to how is a man who was al",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
